@@ -38,4 +38,6 @@ def main():
     
     # Find minimum
     minimum = find_minimum(random_numbers)
+    minimum = find_minimum(random_numbers)
+    minimum = find_minimum(random_numbers)
     print("Minimum:", minimum)
